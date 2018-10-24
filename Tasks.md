@@ -1,6 +1,9 @@
 # Projects
 * Atlas 2.
-  * Levantar versión 1 en AWS. Configuración de correo
+  * Levantar versión 1 en AWS. 
+    * Prueba configuración de correo
+    * Prueba conectividad base de datos
+    * Publicación version 1
   * Desarrollo nuevas funciones
   * Deploy
 * Thankyou.com.co
