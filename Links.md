@@ -10,5 +10,5 @@
 * https://sanet.st/full/
 
 # download
-* https://sanet.st/blogs/sa-net/enterprise_java_microservices.2740570.html
-* https://sanet.st/blogs/booknew/professional_android_fourth_edition.2740654.html
+* http://nitroflare.com/view/4B0093EC1BFDB4B/Sanet.st_Data_Analysis_with_R_-_Tony_Fischetti.epub
+* 
