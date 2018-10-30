@@ -26,7 +26,11 @@ Awake! 2018 A Great Year!
 * AWS
 * Heroku
 * Firebase
-* 
+* Ionic
+* Anaconda. https://anaconda.org/robotmodel67/dashboard
+
+# CORE
+* https://drive.google.com/drive/folders/1agJFLNhl9iqqBbvtr77oVosDFGfgkhA9
 
 
 
