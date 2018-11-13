@@ -45,3 +45,8 @@ https://downmagaz.com/news_magazine/165185-new-scientist-11102018.html
 CRACK
 https://github.com/RobotModel67/library
 https://github.com/StellaNova1604/ICELAND/tree/master/Allegro
+
+2018-11-13
+https://sanet.st/blogs/mixedft/lynda_building_apis_using_hapi_in_node_js.2240963.html
+https://coderprog.com/internet-things-automation-esp8266/
+https://coderprog.com/practical-data-science-r-video/
