@@ -50,3 +50,17 @@ https://github.com/StellaNova1604/ICELAND/tree/master/Allegro
 https://sanet.st/blogs/mixedft/lynda_building_apis_using_hapi_in_node_js.2240963.html
 https://coderprog.com/internet-things-automation-esp8266/
 https://coderprog.com/practical-data-science-r-video/
+
+2018-11-23
+https://sanet.st/blogs/developer/building_image_processing_applications_using_scikit_image.2769274.html
+https://coderprog.com/devops-cicd-jenkins-pipelines-groovy-dsl/
+https://www.keycdn.com/blog/openssl-tutorial
+
+
+http://www.allitebooks.com/introducing-zurb-foundation-6/
+http://www.allitebooks.com/pro-angular-6-3rd-edition/
+http://www.allitebooks.com/introducing-bootstrap-4/
+http://www.allitebooks.com/certified-ethical-hacker-ceh-foundation-guide/
+http://www.allitebooks.com/agile-project-management-using-team-foundation-server-2015/
+http://www.allitebooks.com/introducing-materialize-2/
+http://www.allitebooks.com/real-time-web-application-development/
