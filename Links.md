@@ -98,3 +98,6 @@ https://coderprog.com/hands-devops-azure-video/
 
 https://jsao.io/2017/07/how-to-get-use-and-close-a-db-connection-using-async-functions/
 https://dzone.com/articles/how-to-interact-with-a-database-using-async-functi
+
+
+https://patrick-meier.io/build-a-restful-api-using-hapi-js-and-mongodb/
