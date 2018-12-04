@@ -101,3 +101,32 @@ https://dzone.com/articles/how-to-interact-with-a-database-using-async-functi
 
 
 https://patrick-meier.io/build-a-restful-api-using-hapi-js-and-mongodb/
+
+###2018-12-04
+* https://coderprog.com/reliability-resilience-aws-video/
+* https://coderprog.com/angular-7-new-features-video/
+* https://coderprog.com/hands-opencv-4-python-video/
+
+* https://coderprog.com/real-world-javascript-techniques-developers/
+* https://coderprog.com/mastering-iot-arduino-video/
+* https://coderprog.com/hands-game-ai-development-video/
+* https://coderprog.com/consuming-python-apis-react-video/
+* https://coderprog.com/learning-build-apps-watson-ai-video/
+* https://coderprog.com/c-microservices-development-azure-video/
+* https://coderprog.com/learning-python-artificial-intelligence-example-video/
+* https://coderprog.com/hands-object-oriented-programming-java-11-video/
+* https://coderprog.com/blockchain-real-world-projects-video/
+* https://coderprog.com/scala-projects-video/
+* https://coderprog.com/getting-started-tensorflow-deep-learning-video/
+* https://coderprog.com/real-world-machine-learning-projects-tensorflow/
+* https://coderprog.com/kubernetes-developers-video/
+* https://coderprog.com/containerization-kubernetes-way-video/
+* https://coderprog.com/data-stream-development-spark-kafka-spring-boot/
+
+* ---
+* https://sanet.st/blogs/booknew/how_google_works_on_software_testing.2783766.html
+* https://sanet.st/blogs/ebookeng/semantic_web_science_and_real_world_applications.2783153.html
+
+* CARNAVAL DE RIOSUCIO
+* http://www.carnavalriosucio.org/mweb/
+* https://www.infoq.com/
