@@ -1,4 +1,12 @@
 # W-04D02 (2018-12-04)
-* AWS Book
+* Stack
+	Full-Stack Web Development with Vue.js and Node
+* AWS
+
 * Hapi
-* Vue
+
+* Vue	
+	Getting to Know Vue.js
+* DATA Sensei
+	Numerical Python
+	EDx Courseware

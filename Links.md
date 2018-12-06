@@ -102,7 +102,7 @@ https://dzone.com/articles/how-to-interact-with-a-database-using-async-functi
 
 https://patrick-meier.io/build-a-restful-api-using-hapi-js-and-mongodb/
 
-###2018-12-04
+### 2018-12-04
 * https://coderprog.com/reliability-resilience-aws-video/
 * https://coderprog.com/angular-7-new-features-video/
 * https://coderprog.com/hands-opencv-4-python-video/
@@ -130,3 +130,19 @@ https://patrick-meier.io/build-a-restful-api-using-hapi-js-and-mongodb/
 * CARNAVAL DE RIOSUCIO
 * http://www.carnavalriosucio.org/mweb/
 * https://www.infoq.com/
+
+### 2018-12-05
+* https://coderprog.com/python-computer-vision-opencv-deep-learning/
+* https://coderprog.com/aws-certified-solutions-architect-associate-exam/
+* https://coderprog.com/microservices-development-azure-java-video/
+* https://sanet.st/blogs/booknew/java_magazine_reactive_programming.2784922.html
+
+* https://aws.amazon.com/es/blogs/aws/amazon-personalize-real-time-personalization-and-recommendation-for-everyone/
+* https://aws.amazon.com/es/robomaker/
+* https://aws.amazon.com/es/iot-events/
+
+* https://blogs.msdn.microsoft.com/visualstudio/2018/11/15/why-do-we-need-q
+* https://blogs.msdn.microsoft.com/dotnet/2018/12/04/announcing-net-core-3-preview-1-and-open-sourcing-windows-desktop-frameworks/
+* https://blogs.msdn.microsoft.com/dotnet/2018/12/04/announcing-net-core-2-2/
+* https://blogs.msdn.microsoft.com/dotnet/2018/12/04/announcing-ml-net-0-8-machine-learning-for-net/
+* https://blogs.msdn.microsoft.com/devops/2018/11/15/devops-for-blockchain-apps/
