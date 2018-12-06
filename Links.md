@@ -146,3 +146,8 @@ https://patrick-meier.io/build-a-restful-api-using-hapi-js-and-mongodb/
 * https://blogs.msdn.microsoft.com/dotnet/2018/12/04/announcing-net-core-2-2/
 * https://blogs.msdn.microsoft.com/dotnet/2018/12/04/announcing-ml-net-0-8-machine-learning-for-net/
 * https://blogs.msdn.microsoft.com/devops/2018/11/15/devops-for-blockchain-apps/
+
+
+### 2018-12-06
+* https://sanet.st/blogs/developer/robot_framework_test_automation_sauce_labs.2784578.html
+* https://sanet.st/blogs/developer/robot_framework_test_automation_jenkins_ci_and_git_version_control.2784576.html
