@@ -151,3 +151,15 @@ https://patrick-meier.io/build-a-restful-api-using-hapi-js-and-mongodb/
 ### 2018-12-06
 * https://sanet.st/blogs/developer/robot_framework_test_automation_sauce_labs.2784578.html
 * https://sanet.st/blogs/developer/robot_framework_test_automation_jenkins_ci_and_git_version_control.2784576.html
+
+### 2018-12-07
+* https://www.infobae.com/america/ciencia-america/2018/12/03/completa-la-carta-de-dios-la-mas-famosa-misiva-escrita-por-albert-einstein/
+* https://blogs.msdn.microsoft.com/carlosfigueira/2011/03/14/wcf-extensibility/
+* https://content.pivotal.io/blog/this-month-in-spring-december-2-2019
+
+* https://sanet.st/blogs/ebooksa/modern_x_assembly_language_programming_covers_x_bit_avx_avx_and_avx_nd_edition.2787249.html
+* https://sanet.st/blogs/ebooksa/expert_twisted_event_driven_and_asynchronous_programming_with_python.2787140.html
+* https://sanet.st/blogs/ebooksa/learn_keras_for_deep_neural_networks_a_fast_track_approach_to_modern_deep_learning_with_python.2787142.html
+* https://sanet.st/blogs/ebooksa/migrating_to_mariadb_toward_an_open_source_database_solution.2787145.html
+* https://sanet.st/blogs/ebooksa/demystifying_the_brain_a_computational_approach.2787184.html
+
