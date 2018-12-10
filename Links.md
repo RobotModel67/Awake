@@ -163,3 +163,6 @@ https://patrick-meier.io/build-a-restful-api-using-hapi-js-and-mongodb/
 * https://sanet.st/blogs/ebooksa/migrating_to_mariadb_toward_an_open_source_database_solution.2787145.html
 * https://sanet.st/blogs/ebooksa/demystifying_the_brain_a_computational_approach.2787184.html
 
+### 2018-12-10
+* https://coderprog.com/designing-connected-products-ux/
+* https://coderprog.com/continuous-delivery-azure-devops-video/
