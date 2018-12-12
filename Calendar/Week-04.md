@@ -10,3 +10,4 @@
 * DATA Sensei
 	Numerical Python
 	EDx Courseware
+		https://notebooks.azure.com/robotmodel67/
