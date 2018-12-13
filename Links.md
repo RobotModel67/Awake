@@ -166,3 +166,35 @@ https://patrick-meier.io/build-a-restful-api-using-hapi-js-and-mongodb/
 ### 2018-12-10
 * https://coderprog.com/designing-connected-products-ux/
 * https://coderprog.com/continuous-delivery-azure-devops-video/
+
+## 2018-12-13
+* https://sanet.st/blogs/booknew/deep_learning_from_first_principles_second_edition_in_vectorized_python_r_and_octave.2794077.html
+
+
+
+https://sanet.st/blogs/booknew/practical_apache_spark_using_the_scala_api.2793810.html
+
+https://sanet.st/blogs/booknew/understanding_game_application_development_with_xamarin_forms_and_asp_net.2793808.html
+
+
+https://sanet.st/blogs/booknew/selenium_webdriver_quick_start_guide_write_clear_readable_and_reliable_tests_with_selenium_webdriver.2793683.html
+https://sanet.st/blogs/booknew/web_designer_uk_january_true_pdf.2793586.html
+
+
+* https://www.ibm.com/blogs/research/
+* https://developer.ibm.com/blogs/2018/09/07/join-quantum-community/
+
+RobotModel67
+Tamper-proof
+Workflows 
+AI
+Blockchain
+Internet of Things
+Cloud
+Research
+Crops
+Harvest
+Health-check
+Real-time
+On-location
+Embedded
