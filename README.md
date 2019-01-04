@@ -36,5 +36,7 @@ Awake! 2018 A Great Year!
 # CORE
 * https://drive.google.com/drive/folders/1agJFLNhl9iqqBbvtr77oVosDFGfgkhA9
 
-
+# Working...
+* Building RESTful Web Services with Java EE 8
+* http://www.packtpub.com/code_download/34437
 
