@@ -37,4 +37,4 @@ Sin jamás haber hecho brillar la menor parcela de vuestra alma.
 Insaciables, devoráis vuestra vida corriendo tras futilidades.
 ¿Qué puedo hacer por vosotros, si ni siquiera volvéis la cabeza cuando os llamo?
 
-Comentarions al cocinero... las tres cualidades del LIDER alegre, benevolente y ???
+La función del tenzo requiere tres cualidades: alegría de vivir, benevolencia y grandeza de espíritu.
