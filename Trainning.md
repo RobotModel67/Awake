@@ -15,3 +15,30 @@
 		* Apress.REST.API.Development.with.Node.js.2nd.Edition.1484237145.pdf
 		
 * Asyncronous functions in Node (javascript)
+
+* Stack
+	Full-Stack Web Development with Vue.js and Node
+* AWS
+
+* Hapi
+
+* Vue	
+	Getting to Know Vue.js
+* DATA Sensei
+	Numerical Python
+	EDx Courseware
+		https://notebooks.azure.com/robotmodel67/
+		
+
+* https://www.budismolibre.org/docs/sutras/
+
+Habéis finalizado dos tercios de vuestra vida,
+Sin jamás haber hecho brillar la menor parcela de vuestra alma. 
+Insaciables, devoráis vuestra vida corriendo tras futilidades.
+¿Qué puedo hacer por vosotros, si ni siquiera volvéis la cabeza cuando os llamo?
+
+Habéis finalizado dos tercios de vuestra vida,
+Sin jamás haber hecho brillar la menor parcela de vuestra alma. 
+Insaciables, devoráis vuestra vida corriendo tras futilidades.
+¿Qué puedo hacer por vosotros, si ni siquiera volvéis la cabeza cuando os llamo?
+
