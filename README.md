@@ -39,4 +39,6 @@ Awake! 2018 A Great Year!
 # Working...
 * Building RESTful Web Services with Java EE 8
 * http://www.packtpub.com/code_download/34437
-
+* https://sanet.st/blogs/ebooksa/java_ee_high_performance.2514864.html
+* https://sanet.st/blogs/developer/java_ee_cookbook.2573235.html
+* https://sanet.st/blogs/training4all/java_ee_microservices.2381772.html
