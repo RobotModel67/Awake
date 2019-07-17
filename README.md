@@ -44,11 +44,9 @@ Awake! 2018 A Great Year!
 * https://sanet.st/blogs/training4all/java_ee_microservices.2381772.html
 
 # Pendientes...
-* Building RESTful Web Services with Java EE 8.epub
-** Empaquetar la aplicación en DOCKER (p.33)
+## Building RESTful Web Services with Java EE 8.epub
+* Empaquetar la aplicación en DOCKER (p.33)
 
 # TODOs
 * Aws Verificar conectividad con WinSCP
-
-
-JF-CoreWebAppLB-1550551203.us-east-2.elb.amazonaws.com
+* Configurar apache x:443 ServerName to https://go.ServerName
