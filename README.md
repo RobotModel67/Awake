@@ -42,3 +42,13 @@ Awake! 2018 A Great Year!
 * https://sanet.st/blogs/ebooksa/java_ee_high_performance.2514864.html
 * https://sanet.st/blogs/developer/java_ee_cookbook.2573235.html
 * https://sanet.st/blogs/training4all/java_ee_microservices.2381772.html
+
+# Pendientes...
+* Building RESTful Web Services with Java EE 8.epub
+** Empaquetar la aplicación en DOCKER (p.33)
+
+# TODOs
+* Aws Verificar conectividad con WinSCP
+
+
+JF-CoreWebAppLB-1550551203.us-east-2.elb.amazonaws.com
