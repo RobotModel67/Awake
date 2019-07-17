@@ -51,3 +51,13 @@ Awake! 2018 A Great Year!
 * Aws Verificar conectividad con WinSCP
 * Configurar apache x:443 ServerName to https://go.ServerName (https://www.maketecheasier.com/apache-server-ssl-support/ https://letsencrypt.org/getting-started/ )
 
+## SAVE
+Eclipse Maven no SLL
+...
+    <mirror>
+        <id>central-no-ssl</id>
+        <name>Central without ssl</name>
+        <url>http://repo.maven.apache.org/maven2</url>
+        <mirrorOf>central</mirrorOf>
+    </mirror>	 
+  </mirrors>
