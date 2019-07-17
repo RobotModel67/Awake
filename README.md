@@ -49,4 +49,5 @@ Awake! 2018 A Great Year!
 
 # TODOs
 * Aws Verificar conectividad con WinSCP
-* Configurar apache x:443 ServerName to https://go.ServerName
+* Configurar apache x:443 ServerName to https://go.ServerName (https://www.maketecheasier.com/apache-server-ssl-support/ https://letsencrypt.org/getting-started/ )
+
