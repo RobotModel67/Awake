@@ -61,3 +61,5 @@ Eclipse Maven no SLL
         <mirrorOf>central</mirrorOf>
     </mirror>	 
   </mirrors>
+
+* Let's Encrypt and Certbot reference: https://certbot.eff.org/lets-encrypt/ubuntubionic-apache  https://www.digitalocean.com/community/tutorials/how-to-secure-apache-with-let-s-encrypt-on-ubuntu-18-04 
