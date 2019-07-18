@@ -63,3 +63,9 @@ Eclipse Maven no SLL
   </mirrors>
 
 * Let's Encrypt and Certbot reference: https://certbot.eff.org/lets-encrypt/ubuntubionic-apache  https://www.digitalocean.com/community/tutorials/how-to-secure-apache-with-let-s-encrypt-on-ubuntu-18-04 
+* Payara
+https://www.vogella.com/tutorials/EclipseMaven/article.html https://www.mkyong.com/maven/how-to-create-a-web-application-project-with-maven/ 
+
+* WEB.XML 
+https://cloud.google.com/appengine/docs/standard/java/config/webxml
+
