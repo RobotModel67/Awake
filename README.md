@@ -68,4 +68,7 @@ https://www.vogella.com/tutorials/EclipseMaven/article.html https://www.mkyong.c
 
 * WEB.XML 
 https://cloud.google.com/appengine/docs/standard/java/config/webxml
+* JPA 
+https://thoughts-on-java.org/jpa-persistence-xml/ https://www.vogella.com/tutorials/JavaPersistenceAPI/article.html
 
+# https://stackoverflow.com/questions/16034208/unable-to-acquire-a-connection-from-driver-null-user-null-and-url-null-po
