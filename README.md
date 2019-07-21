@@ -48,8 +48,6 @@ Awake! 2018 A Great Year!
 * Empaquetar la aplicación en DOCKER (p.33)
 
 # TODOs
-* Aws Verificar conectividad con WinSCP
-* Configurar apache x:443 ServerName to https://go.ServerName (https://www.maketecheasier.com/apache-server-ssl-support/ https://letsencrypt.org/getting-started/ )
 
 ## SAVE
 Eclipse Maven no SLL
@@ -61,14 +59,3 @@ Eclipse Maven no SLL
         <mirrorOf>central</mirrorOf>
     </mirror>	 
   </mirrors>
-
-* Let's Encrypt and Certbot reference: https://certbot.eff.org/lets-encrypt/ubuntubionic-apache  https://www.digitalocean.com/community/tutorials/how-to-secure-apache-with-let-s-encrypt-on-ubuntu-18-04 
-* Payara
-https://www.vogella.com/tutorials/EclipseMaven/article.html https://www.mkyong.com/maven/how-to-create-a-web-application-project-with-maven/ 
-
-* WEB.XML 
-https://cloud.google.com/appengine/docs/standard/java/config/webxml
-* JPA 
-https://thoughts-on-java.org/jpa-persistence-xml/ https://www.vogella.com/tutorials/JavaPersistenceAPI/article.html
-
-# https://stackoverflow.com/questions/16034208/unable-to-acquire-a-connection-from-driver-null-user-null-and-url-null-po
