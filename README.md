@@ -59,3 +59,8 @@ Eclipse Maven no SLL
         <mirrorOf>central</mirrorOf>
     </mirror>	 
   </mirrors>
+
+## AWS
+* Configurar Load Balancer High Disponibility
+* S3 workshop. https://docs.aws.amazon.com/AmazonS3/latest/gsg/index.html https://docs.aws.amazon.com/AmazonS3/latest/dev/index.html
+* SES Recibing email. https://docs.aws.amazon.com/ses/latest/DeveloperGuide/receiving-email-setting-up.html
