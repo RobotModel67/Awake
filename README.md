@@ -92,5 +92,8 @@ http://astronomia.net/cosmologia/ABC.htm
 https://svo.cab.inta-csic.es/docs/files/svo/Public/Projects/Education/VIU/07-CEFEIDAS.pdf
 http://guaix.fis.ucm.es/~pgperez/Teaching/Galaxias_cosmologia/Curso_2011-2012/
 
+https://vaadin.com/tutorials/vaadin-quick-start
+https://google.github.io/flogger/
+
 
 
