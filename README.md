@@ -64,3 +64,33 @@ Eclipse Maven no SLL
 * Configurar Load Balancer High Disponibility
 * S3 workshop. https://docs.aws.amazon.com/AmazonS3/latest/gsg/index.html https://docs.aws.amazon.com/AmazonS3/latest/dev/index.html
 * SES Recibing email. https://docs.aws.amazon.com/ses/latest/DeveloperGuide/receiving-email-setting-up.html
+
+
+1. VueJS 
+2. JEE, Dotnet, Node
+3. Python Data/Math Scientist
+4. Flutter Ninja
+5. AWS Certification
+
+0. Jack Featured Business Site
+1. Contabilidad
+2. Maintenance
+
+Hacer todos los cursos de AWAKE. https://github.com/RobotModel67/Awake
+Hacer todos los cursos de eDx, Coursera, Microsoft, IBM
+
+Math
+https://relopezbriega.github.io/blog/2016/02/10/mas-algebra-lineal-con-python/
+
+
+
+https://192.168.79.185:7843/services/customers/CustDigitalInfoInq
+Packt.Hands-On.Big.Data.Modeling.1788620909.rar
+Packt.Splunk.7.Essentials.3rd.Edition.1788839110.rar
+
+http://astronomia.net/cosmologia/ABC.htm
+https://svo.cab.inta-csic.es/docs/files/svo/Public/Projects/Education/VIU/07-CEFEIDAS.pdf
+http://guaix.fis.ucm.es/~pgperez/Teaching/Galaxias_cosmologia/Curso_2011-2012/
+
+
+
