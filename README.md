@@ -84,9 +84,18 @@ https://relopezbriega.github.io/blog/2016/02/10/mas-algebra-lineal-con-python/
 
 
 
-https://192.168.79.185:7843/services/customers/CustDigitalInfoInq
-Packt.Hands-On.Big.Data.Modeling.1788620909.rar
-Packt.Splunk.7.Essentials.3rd.Edition.1788839110.rar
+
+* Packt.Hands-On.Big.Data.Modeling.1788620909.rar
+* Packt.Splunk.7.Essentials.3rd.Edition.1788839110.rar
+* https://www.foxebook.net/mastering-machine-learning-algorithms/
+* https://www.foxebook.net/blender-for-video-production-quick-start-guide/
+* Other
+* https://coderprog.com/coding-linux-master-programming-2019/
+* https://coderprog.com/mastering-python-networking-security/
+* https://coderprog.com/python-advanced-guide-artificial-intelligence/
+* https://coderprog.com/nodejs-beginners-build-mini-game-project/
+* https://coderprog.com/mastering-rust-build-robust-concurrent-app/
+
 
 http://astronomia.net/cosmologia/ABC.htm
 https://svo.cab.inta-csic.es/docs/files/svo/Public/Projects/Education/VIU/07-CEFEIDAS.pdf
