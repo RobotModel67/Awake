@@ -82,6 +82,18 @@ Hacer todos los cursos de eDx, Coursera, Microsoft, IBM
 Math
 https://relopezbriega.github.io/blog/2016/02/10/mas-algebra-lineal-con-python/
 
+### 2019-09-09
+* https://www.foxebook.net/data-science-with-python-2/
+* https://www.foxebook.net/finite-mathematics-and-applied-calculus-7th-edition/
+* https://www.foxebook.net/practical-data-science-with-python-3-synthesizing-actionable-insights-from-data/
+* https://www.foxebook.net/beginning-ethereum-smart-contracts-programming/
+* https://www.foxebook.net/deep-learning-for-computer-vision/
+* https://www.foxebook.net/value-based-learning-healthcare-systems-integrative-modeling-and-simulation/
+* https://www.foxebook.net/learning-microsoft-cognitive-services-3rd-edition/
+* https://www.foxebook.net/advanced-typescript-programming-projects/
+* https://www.foxebook.net/advanced-machine-learning-with-r/
+* https://www.foxebook.net/agile-leadership-toolkit-learning-to-thrive-with-self-managing-teams/
+* https://www.foxebook.net/deep-learning-illustrated-a-visual-interactive-guide-to-artificial-intelligence/
 
 
 
