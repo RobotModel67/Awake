@@ -155,3 +155,33 @@ http://guaix.fis.ucm.es/~pgperez/Teaching/Galaxias_cosmologia/Curso_2011-2012/
 2. Libro ??? Laboratorio
 3. ASUS nuevo!!!
 4. 
+
+
+### 2019-09-19
+MUSIC
+Dance with me 			Martin mix
+In love again			Luca Debonaire
+
+
+AUVSI	Association for Unmanned Vehicle System International
+
+HACK
+	Instalar Windows Terminal Preview
+	
+DEV
+	Debuging C++ in VSCode
+	
+SCIENCE
+	Todos los cometas vienen del mismo sitio
+	Descubren un antiguo continente bajo europa
+	Televisores de 8k
+	Particulas inmortales
+	Nuevo hueso en el cuello por el phone
+	https://www.xgimi.com/en/h2
+	Luna. Objeto metálico en crater
+		https://es.gizmodo.com/hallan-indicios-de-un-enorme-objeto-metalico-enterrado-1835401346
+	Xiaomi Mi 9T
+	
+	
+MAKE Spark/ADA
+	https://www.hackster.io/contests/adacore2
