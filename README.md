@@ -186,3 +186,79 @@ SCIENCE
 	
 MAKE Spark/ADA
 	https://www.hackster.io/contests/adacore2
+
+# BACKUP
+1. VueJS 
+2. JEE, Dotnet, Node
+3. Python Data/Math Scientist
+4. Flutter Ninja
+5. AWS Certification
+
+0. Jack Featured Business Site
+1. Contabilidad
+2. Maintenance
+
+Hacer todos los cursos de AWAKE. https://github.com/RobotModel67/Awake
+Hacer todos los cursos de eDx, Coursera, Microsoft, IBM
+
+
+Math
+https://relopezbriega.github.io/blog/2016/02/10/mas-algebra-lineal-con-python/
+
+
+
+https://192.168.79.185:7843/services/customers/CustDigitalInfoInq
+Packt.Hands-On.Big.Data.Modeling.1788620909.rar
+Packt.Splunk.7.Essentials.3rd.Edition.1788839110.rar
+
+http://astronomia.net/cosmologia/ABC.htm
+https://svo.cab.inta-csic.es/docs/files/svo/Public/Projects/Education/VIU/07-CEFEIDAS.pdf
+http://guaix.fis.ucm.es/~pgperez/Teaching/Galaxias_cosmologia/Curso_2011-2012/
+
+MUSIC
+Dance with me 			Martin mix
+In love again			Luca Debonaire
+Salwater				Nora en Pure
+Lost & Found			Moonbootica & Bondi
+Lay It All On Me		Rudimental
+I Just Want You			Matt DiMona
+Walls					Tez Cadey feat julia Church
+Bleu					Worakis
+everiting is changing	MOON
+
+
+
+AUVSI	Association for Unmanned Vehicle System International
+
+HACK
+	Instalar Windows Terminal Preview
+	
+DEV
+	Debuging C++ in VSCode
+	
+SCIENCE
+	Todos los cometas vienen del mismo sitio
+	Descubren un antiguo continente bajo europa
+	Televisores de 8k
+	Particulas inmortales
+	Nuevo hueso en el cuello por el phone
+	https://www.xgimi.com/en/h2
+	Luna. Objeto metálico en crater
+		https://es.gizmodo.com/hallan-indicios-de-un-enorme-objeto-metalico-enterrado-1835401346
+	Xiaomi Mi 9T
+	
+	
+MAKE Spark/ADA
+	https://www.hackster.io/contests/adacore2
+
+	
+COLPATRIA
+	MASTER CLARO	1300
+	VISA CARREFOUR	220,000
+	
+BLANCA ESTHER PLAZA OCAMPO	29656903
+BANCOLOMBIA S.A.
+30050737248
+315 5640764
+
+609716
