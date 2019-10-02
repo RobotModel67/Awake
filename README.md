@@ -262,3 +262,21 @@ BANCOLOMBIA S.A.
 315 5640764
 
 609716
+
+## 2019-10-02
+
+DOWNLOADS
+https://fullcirclemagazine.org/downloads/  
+https://coderprog.com/ionic-4-projects-video/  
+
+### REFERENCE
+https://github.com/alvaroadlf/HEAD
+
+### FACTORY
+All my references: https://github.com/milano-engineering  
+Code trainnig: https://github.com/RobotModel67/  
+Production: https://github.com/ ??? JackFeatured ???  
+Factory: https://github.com/ ??? HighPerformance ???  
+
+## TRAINNING
+https://universoabierto.org/2016/05/27/la-programacion-probabilistica-y-metodos-bayesianos-para-los-hackers/
