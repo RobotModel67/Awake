@@ -269,4 +269,6 @@ Production: https://github.com/ ??? JackFeatured ???
 Factory: https://github.com/ ??? HighPerformance ???  
 
 ## TRAINNING
-https://universoabierto.org/2016/05/27/la-programacion-probabilistica-y-metodos-bayesianos-para-los-hackers/
+https://universoabierto.org/2016/05/27/la-programacion-probabilistica-y-metodos-bayesianos-para-los-hackers/  
+https://relopezbriega.github.io/blog/2017/05/21/introduccion-a-la-inferencia-bayesiana-con-python/  
+
