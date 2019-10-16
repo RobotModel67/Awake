@@ -215,16 +215,20 @@ http://astronomia.net/cosmologia/ABC.htm
 https://svo.cab.inta-csic.es/docs/files/svo/Public/Projects/Education/VIU/07-CEFEIDAS.pdf
 http://guaix.fis.ucm.es/~pgperez/Teaching/Galaxias_cosmologia/Curso_2011-2012/
 
+
 MUSIC
 Dance with me 			Martin mix
-In love again			Luca Debonaire
-Salwater				Nora en Pure
-Lost & Found			Moonbootica & Bondi
-Lay It All On Me		Rudimental
 I Just Want You			Matt DiMona
-Walls					Tez Cadey feat julia Church
-Bleu					Worakis
 everiting is changing	MOON
+I fell You				Nikko Culture
+Give It to Me (Emie)	Plucando
+as long as we together 	severin borer felipe puertes
+Late Night				ODESZA
+Sorry					Serge
+Walls					Tez Cadey feat Julia Church
+Feel Young				Sneaky Jam feat Laura
+You're free feat JEX	LU2VYK
+
 
 
 
@@ -272,3 +276,10 @@ Factory: https://github.com/ ??? HighPerformance ???
 https://universoabierto.org/2016/05/27/la-programacion-probabilistica-y-metodos-bayesianos-para-los-hackers/  
 https://relopezbriega.github.io/blog/2017/05/21/introduccion-a-la-inferencia-bayesiana-con-python/  
 
+### 2019-10-11
+https://www.pulumi.com/
+https://v1-0.ballerina.io
+
+https://www.tikalk.com/posts/2012/08/09/keep-wcf-client-configuration-in-a-class-library-app-config/
+
+https://es.wikipedia.org/wiki/Funci%C3%B3n_de_verosimilitud
