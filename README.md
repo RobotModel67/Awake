@@ -283,3 +283,24 @@ https://v1-0.ballerina.io
 https://www.tikalk.com/posts/2012/08/09/keep-wcf-client-configuration-in-a-class-library-app-config/
 
 https://es.wikipedia.org/wiki/Funci%C3%B3n_de_verosimilitud
+
+## JEE8
+https://blog.payara.fish/relation-between-payara-platform-microprofile-and-java-ee/jakarta-ee  
+
+2019-10-11
+https://www.pulumi.com/
+https://v1-0.ballerina.io
+
+https://www.tikalk.com/posts/2012/08/09/keep-wcf-client-configuration-in-a-class-library-app-config/
+
+https://es.wikipedia.org/wiki/Funci%C3%B3n_de_verosimilitud
+
+Gulp
+https://coder-coder.com/gulp-tutorial-beginners/
+https://www.infoq.com/news/2019/10/jakarta-nosql/
+
+SUFI 186,000
+
+MINOXIDIL
+
+https://hackernoon.com/next-generation-banking-27kq33tl
