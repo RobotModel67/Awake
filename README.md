@@ -1,6 +1,11 @@
 # Awake
 Awake! 2018 A Great Year!
 
+## This is new!
+https://medium.com/@Petuum/intro-to-modern-bayesian-learning-and-probabilistic-programming-c61830df5c50  
+https://levelup.gitconnected.com/build-a-pwa-using-only-vanilla-javascript-bdf1eee6f37a  
+
+
 ## Courses
 ### Google
 * Google Garage Digital. https://learndigital.withgoogle.com/digitalgarage/topic/1
